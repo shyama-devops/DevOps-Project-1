@@ -1,2 +1,3 @@
-# CI-CD-Pipeline-for-Web-App-on-AWS-with-Jenkins-and-Docker
+# Containerized NodeJS Application Deployed On AWS using Jenkins
+
 
